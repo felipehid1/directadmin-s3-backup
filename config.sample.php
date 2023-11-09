@@ -14,4 +14,5 @@ return [
     'bucket'=>'you-bucket-name',
     'expiration'=>3,
 	//'endpoint' => 'https://sfo2.digitaloceanspaces.com', //enable this for digitalocean space	
+	//'endpoint' => 'https://us-east-1.linodeobjects.com', //enable this for linode Object Storage
 ];
